@@ -26,7 +26,7 @@ function App() {
         </p>
       </div>
       <p className="read-the-docs">
-       *** This is a test ***
+       ### This is a test ###
       </p>
     </>
   )
